@@ -1,0 +1,4 @@
+.banner {
+    position: relative; /*os elementos do banner serão posicionados dentro do espaço do banner e não em relação a tela :)*/
+}
+
